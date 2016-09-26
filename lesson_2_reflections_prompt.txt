@@ -1,0 +1,28 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It create a folder named Git needed for create a tree. No one files is versionized yet. 
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Stagging aera is an aera where commits where saved before push it. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+i add to add files linked to one logical change, then add other files for a new logical changes... 
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+When we want to create a new feature. They will create a new version of the folder with the new changes and when commit the changes, it will only appear on the current branch.
+
+How do the diagrams help you visualize the branch structure?
+
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?

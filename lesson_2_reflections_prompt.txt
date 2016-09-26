@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 It create a folder named Git needed for create a tree. No one files is versionized yet. 
 
@@ -19,10 +19,14 @@ When we want to create a new feature. They will create a new version of the fold
 
 How do the diagrams help you visualize the branch structure?
 
-
+It helps us to see branches and their commits in time.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+it will merge two different branches. will merge all commits in the same timeline. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+it will delete or adding some codes, and creates some bugg. It will not see conflicts.

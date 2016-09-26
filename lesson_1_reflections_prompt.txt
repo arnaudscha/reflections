@@ -1,0 +1,7 @@
+How might using version control make you more confident to make changes that could break something?
+
+with chekout, and log, we cant see where the problem is and can correct it easily with the files comparisons.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try some team programming.
